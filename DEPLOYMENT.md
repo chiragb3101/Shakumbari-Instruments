@@ -1,4 +1,4 @@
-# Deployment Guide - PrecisionTech Instruments Website
+# Deployment Guide - Shakumbari Instruments Website
 
 ## 🚀 Deploy to Vercel (Recommended)
 
@@ -29,7 +29,7 @@ git push -u origin main
 
 1. In your Vercel dashboard, go to your project
 2. Click "Settings" → "Domains"
-3. Add your custom domain (e.g., `precisiontech-instruments.com`)
+3. Add your custom domain (e.g., `shakumbari-instruments.com`)
 4. Follow the DNS configuration instructions
 
 ## 🔧 Environment Variables

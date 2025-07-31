@@ -29,7 +29,7 @@ export default function Header() {
     } backdrop-blur-md`}>
       <nav className="flex justify-between items-center px-5 py-4 max-w-7xl mx-auto">
         <div className="text-2xl font-bold text-slate-100 tracking-tight">
-          PrecisionTech Instruments
+          Shakumbari Instruments
         </div>
         
         <ul className="hidden md:flex list-none gap-10">

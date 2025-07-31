@@ -1,6 +1,6 @@
-# PrecisionTech Instruments - Next.js Website
+# Shakumbari Instruments - Next.js Website
 
-A modern, responsive website for PrecisionTech Instruments, showcasing professional paper testing equipment and laboratory instruments.
+A modern, responsive website for Shakumbari Instruments, showcasing professional paper testing equipment and laboratory instruments.
 
 ## 🚀 Features
 
@@ -149,13 +149,13 @@ Update the gradient classes in `src/app/globals.css`:
 
 ## 📞 Contact Information
 
-- **Sales**: sales@precisiontech-instruments.com
-- **Support**: +1-555-PRECISION
+- **Sales**: sales@shakumbari-instruments.com
+- **Support**: +1-555-SHAKUMBARI
 - **Hours**: Monday - Friday: 8:00 AM - 6:00 PM EST
 
 ## 📄 License
 
-This project is proprietary to PrecisionTech Instruments.
+This project is proprietary to Shakumbari Instruments.
 
 ---
 

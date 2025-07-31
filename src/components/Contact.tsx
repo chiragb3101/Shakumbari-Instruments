@@ -4,11 +4,11 @@ export default function Contact() {
   const contactInfo = [
     {
       title: 'Sales Department',
-      info: 'sales@precisiontech-instruments.com'
+      info: 'sales@shakumbari-instruments.com'
     },
     {
       title: 'Technical Support',
-      info: '+1-555-PRECISION'
+      info: '+1-555-SHAKUMBARI'
     },
     {
       title: 'Business Hours',
@@ -37,13 +37,13 @@ export default function Contact() {
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center mb-16">
           <a 
-            href="tel:+1-555-PRECISION"
+            href="tel:+1-555-SHAKUMBARI"
             className="bg-gradient-to-r from-blue-500 to-blue-700 text-white px-8 py-4 rounded-md text-lg font-semibold transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-blue-500/30"
           >
-            Call: +1-555-PRECISION
+            Call: +1-555-SHAKUMBARI
           </a>
           <a 
-            href="mailto:sales@precisiontech-instruments.com"
+            href="mailto:sales@shakumbari-instruments.com"
             className="bg-transparent text-slate-300 px-8 py-4 border-2 border-slate-600 rounded-md text-lg font-semibold transition-all duration-300 hover:bg-slate-600 hover:text-white hover:-translate-y-1"
           >
             Request Proposal
